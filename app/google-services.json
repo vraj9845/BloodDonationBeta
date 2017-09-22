@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "710243365643",
+    "firebase_url": "https://lifeline-e9119.firebaseio.com",
+    "project_id": "lifeline-e9119",
+    "storage_bucket": "lifeline-e9119.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710243365643:android:686013560138a54a",
+        "android_client_info": {
+          "package_name": "codered.blooddonationbeta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710243365643-8bitphm9940aj8kqepfdo9ugdmfv18s5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "codered.blooddonationbeta",
+            "certificate_hash": "de91fff707fdc217d19f13666cd9e04619342c82"
+          }
+        },
+        {
+          "client_id": "710243365643-1dhmq772k7e75imuah1ggmttk1n9q969.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2l4w0aAGGH5T8MPW7XC9kr1aNNqEaNTA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710243365643-1dhmq772k7e75imuah1ggmttk1n9q969.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
